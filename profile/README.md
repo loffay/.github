@@ -7,9 +7,9 @@
 <div>
   <h3>👩‍💻 Useful resources: </h3>
   <div style="display: flex">
-    <a href="https://loffay.com" target="_blank">Website</a> &bull;
-    <a href="https://www.linkedin.com/company/loffay" target="_blank">LinkedIn</a> &bull;
-    <a href="#" target="_blank">Twitter</a> &bull;
-    <a href="#" target="_blank">Instagram</a>
+    <a target="_blank" href="https://loffay.com">Website</a> &bull;
+    <a target="_blank" href="https://www.linkedin.com/company/loffay">LinkedIn</a> &bull;
+    <a target="_blank" href="#">Twitter</a> &bull;
+    <a target="_blank" href="#">Instagram</a>
   </div>
 </div>
